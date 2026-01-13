@@ -24,5 +24,5 @@ The goal of this repository is to strengthen my understanding of core data scien
 This repository will be updated regularly with notebooks, explanations, and practical examples.
 
 ## Author
-**Kasun Vishvajit**  
+**Kasun Vishvajith**  
 BSc (Hons) in Data Science
